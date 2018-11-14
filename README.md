@@ -1,5 +1,5 @@
 # CKBannerView
-简单的BannerView，UI的可完全自定义。
+简单的BannerView，UI可完全自定义。
 
 自定义滚动的每页样式时继承“CKBannerItemView”即可（可用xib设计样式），自定义pageControl时继承“CKBannerPageControlView”即可。
 
